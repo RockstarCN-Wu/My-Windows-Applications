@@ -1,5 +1,5 @@
 # Windows-Applications
-Windows必备软件（personal）
+Windows 必备软件（personal）
 
 # 开发工具
 
@@ -8,21 +8,21 @@ Windows必备软件（personal）
 - Intellij IDEA
 - Visual Studio Code
 - Visual Studio
-- PyCharm
-- CLion
-- RustRover
+- Cursor
 - Postman
 - Visio
+- Apifox
 
 ## 编译器与版本管理
 - GCC (scoop version)
 - nvm-desktop (Node.js stable version)
 - Docker Desktop
+- Git
 
 # 浏览器
 - Chrome
 - Edge
-- Firefox 开发者版
+- Firefox
 
 # 软件管理
 - Geek Uninstaller
@@ -30,6 +30,7 @@ Windows必备软件（personal）
 # 压缩工具
 - Bandizip
 - 7-Zip (scoop version)
+- PeaZip
 
 # 写盘工具
 - rufus (scoop version)
@@ -40,7 +41,6 @@ Windows必备软件（personal）
 
 # 下载工具
 - IDM (Internet Download Manager)
-- imFile (BT下载)
 
 # 视频播放器
 - PotPlayer
@@ -56,21 +56,19 @@ Windows必备软件（personal）
 - DiskGenius
 - Office Tool Plus (安装Office)
 - Microsoft Activation Scripts (Windows、Office 激活)
-- Mem Reduct (内存清理)
 - Window Centering Helper (窗口居中)
 - Nilesoft Shell (右键拓展)
 - TranslucentTB (透明化任务栏)
-- NotePads (记事本增强)
-- LockHunter (解锁占用)
 - MacType (字体渲染)
 - fastfetch (scoop version)
 - lsd command (scoop version)
 
 # 字体
-- Maple Mono NF CN (Coding)
+- Maple Mono NF CN
 - MiSans
 - Harmony OS Sans
-- PingFang (UI)
+- PingFang
+- 霞鹜文楷
 
 # 录屏截图
 - OBS-Studio
@@ -83,6 +81,8 @@ Windows必备软件（personal）
 - Microsoft Office 365
 - WPS Office
 - 我的ABC工具箱
+- Adobe Acrobat Pro
+- ASAP Utilities
 
 # 游戏平台
 - Steam
