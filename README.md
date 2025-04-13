@@ -1,9 +1,9 @@
-# Windows-Applications
-Windows 必备软件（personal）
+# My-Windows-Applications
+Windows 必备软件
 
-# 开发工具
+## 开发工具
 
-## IDE
+### IDE
 - Android Studio
 - Intellij IDEA
 - Visual Studio Code
@@ -13,39 +13,39 @@ Windows 必备软件（personal）
 - Visio
 - Apifox
 
-## 编译器与版本管理
+### 编译器与版本管理
 - GCC (scoop version)
 - nvm-desktop (Node.js stable version)
 - Docker Desktop
 - Git
 
-# 浏览器
+## 浏览器
 - Chrome
 - Edge
 - Firefox
 
-# 软件管理
+## 软件管理
 - Geek Uninstaller
 
-# 压缩工具
+## 压缩工具
 - Bandizip
 - 7-Zip (scoop version)
 - PeaZip
 
-# 写盘工具
+## 写盘工具
 - rufus (scoop version)
 
-# 包管理器
+## 包管理器
 - winget
 - scoop
 
-# 下载工具
+## 下载工具
 - IDM (Internet Download Manager)
 
-# 视频播放器
+## 视频播放器
 - PotPlayer
 
-# 系统工具
+## 系统工具
 - Everything
 - PowerToys
 - WinDynamicDesktop
@@ -63,28 +63,28 @@ Windows 必备软件（personal）
 - fastfetch (scoop version)
 - lsd command (scoop version)
 
-# 字体
+## 字体
 - Maple Mono NF CN
 - MiSans
 - Harmony OS Sans
 - PingFang
 - 霞鹜文楷
 
-# 录屏截图
+## 录屏截图
 - OBS-Studio
 - Pixpin
 
-# 科学上网
+## 科学上网
 - Clash Verge Rev
 
-# 办公软件
+## 办公软件
 - Microsoft Office 365
 - WPS Office
 - 我的ABC工具箱
 - Adobe Acrobat Pro
 - ASAP Utilities
 
-# 游戏平台
+## 游戏平台
 - Steam
 - Epic Games
 - Xbox
